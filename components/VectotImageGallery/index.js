@@ -1,5 +1,5 @@
 import React from "react";
-import { Img } from "./components"; // Update the path as needed
+import { Img } from "./.."; // Update the path as needed
 
 export default function VectorImageGallery({ ...props }) {
   return (

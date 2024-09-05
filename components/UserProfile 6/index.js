@@ -1,5 +1,5 @@
 import React from "react";
-import { Text, Heading, Img } from "./path_to_components"; // Update the import path as needed
+import { Text, Heading, Img } from "./.."; // Update the import path as needed
 
 export default function UserProfile6({
   userScore = "498.000",

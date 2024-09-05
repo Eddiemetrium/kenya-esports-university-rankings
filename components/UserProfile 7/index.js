@@ -1,5 +1,5 @@
 import React from "react";
-import { Text, Heading } from "./components"; // Update the path to where Text and Heading are actually located
+import { Text, Heading } from "./.."; // Update the path to where Text and Heading are actually located
 
 export default function UserProfile7({
   strategyText = "strategy",
