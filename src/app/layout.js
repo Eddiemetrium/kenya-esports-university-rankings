@@ -6,7 +6,7 @@ import "../styles/font.css";
 export const metadata = {
   title: "Kenya University Esports Ranking",
   description:
-    "Kenya University Esports Ranking is a platform for ranking the best gamers in high schools, colleges, and universities.",
+    "Kenya University Esports Ranking is your ultimate destination for tracking the best gamers across PlayStation, PC, and mobile platforms in high schools, colleges, and universities throughout Kenya. Discover top talents, follow exciting matches, and witness the rise of future esports champions in the vibrant world of gaming competition!",
   themeColor: "#000000",
 };
 
