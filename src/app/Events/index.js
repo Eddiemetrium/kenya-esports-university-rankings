@@ -2,11 +2,11 @@
 import { Img, Text, Heading, Button, Slider } from "../../components";
 import Footer from "../../components/Footer";
 import Header from "../../components/Header";
-import UserProfile10 from "../../components/UserProfile10";
+import UserProfile10 from "../../../components/UserProfile10";
 import EventsFormevents from "./EventsFormevents";
 import EventsRowEight from "./EventsRowEight";
 import EventsRowFifteen from "./EventsRowFifteen";
-import EventsRowHunter from "./EventsRowHunter";
+import EventsRowHunter from "./EventsRowhunter";
 import React from "react";
 
 export default function EventsPage() {
