@@ -1,5 +1,5 @@
-import { Button, Heading } from "../../components";
-import UserProfile from "../../components/UserProfile";
+import { Button, Heading } from "../../../components";
+import UserProfile from "../../../components/UserProfile";
 import React from "react";
 
 export default function LandingRowSeven() {

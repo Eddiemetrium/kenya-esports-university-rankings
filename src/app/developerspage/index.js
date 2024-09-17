@@ -1,5 +1,5 @@
-import { Img, Text } from "../../components";
-import Header from "../../components/Header";
+import { Img, Text } from "../../../components";
+import Header from "../../../components/Header";
 import DeveloperspageHero from "./DeveloperspageHero";
 import DeveloperspageRowFifteen from "./DeveloperspageRowFifteen";
 import DeveloperspageRowNine from "./DeveloperspageRowNine";

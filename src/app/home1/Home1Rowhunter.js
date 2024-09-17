@@ -1,5 +1,5 @@
-import { Heading, Img } from "../../components";
-import UserProfile1 from "../../components/UserProfile1";
+import { Heading, Img } from "../../../components";
+import UserProfile1 from "../../../components/UserProfile 1";
 import React, { Suspense } from "react";
 
 const data = [

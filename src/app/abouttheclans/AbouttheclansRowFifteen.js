@@ -1,4 +1,4 @@
-import UserProfile5 from "../../components/UserProfile5";
+import UserProfile5 from "../../../components/UserProfile5";
 import React, { Suspense } from "react";
 
 const data = [

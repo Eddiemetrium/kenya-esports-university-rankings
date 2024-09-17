@@ -1,6 +1,6 @@
 "use client";
-import { Img, Text, Button, Slider, Heading } from "../../components";
-import VectorImageGallery from "../../components/VectorImageGallery";
+import { Img, Text, Button, Slider, Heading } from "../../../components";
+import VectorImageGallery from "../../../components/VectotImageGallery/index";
 import LandingRowFourteen from "./LandingRowFourteen";
 import LandingRowSeven from "./LandingRowSeven";
 import LandingRowSix from "./LandingRowSix";

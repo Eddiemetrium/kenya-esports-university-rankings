@@ -1,4 +1,4 @@
-import { Img, Heading, Text, Button } from "../../components";
+import { Img, Heading, Text, Button } from "../../../components";
 import React from "react";
 
 const GameplayCard = ({ score1, score2, date, cupName }) => (

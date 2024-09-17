@@ -1,7 +1,7 @@
-import { Text, Heading, Img } from "../../components";
-import Footer from "../../components/Footer";
-import Header from "../../components/Header";
-import VectorImageGallery from "../../components/VectorImageGallery";
+import { Text, Heading, Img } from "../../../components";
+import Footer from "../../../components/Footer";
+import Header from "../../../components/Header";
+import VectorImageGallery from "../../../components/VectorImageGallery";
 import PlayersCta from "./PlayersCta";
 import PlayersRowFive from "./PlayersRowFive";
 import PlayersRowSeven from "./PlayersRowSeven";

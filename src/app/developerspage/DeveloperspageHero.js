@@ -1,6 +1,6 @@
 "use client";
 
-import { Button, Heading, Text, Slider, Img } from "../../components";
+import { Button, Heading, Text, Slider, Img } from "../../../components";
 import React from "react";
 
 export default function DeveloperspageHero() {

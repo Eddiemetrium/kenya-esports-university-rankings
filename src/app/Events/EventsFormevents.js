@@ -1,5 +1,5 @@
 "use client";
-import { Heading, Input } from "../../components";
+import { Heading, Input } from "../../../components";
 import React from "react";
 
 export default function EventsFormEvents() {

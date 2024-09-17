@@ -1,4 +1,4 @@
-import { Button, Heading, Text } from "../../components";
+import { Button, Heading, Text } from "../../../components";
 import React from "react";
 
 export default function LandingRowView() {

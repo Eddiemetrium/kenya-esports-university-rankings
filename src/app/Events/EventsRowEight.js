@@ -1,5 +1,5 @@
-import { Text, Heading, Img } from "../../components";
-import UserProfile9 from "../../components/UserProfile9";
+import { Text, Heading, Img } from "../../../components";
+import UserProfile9 from "../../../components/UserProfile9";
 import React from "react";
 
 export default function EventsRowEight() {

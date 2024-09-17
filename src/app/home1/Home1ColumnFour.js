@@ -1,4 +1,4 @@
-import { Text, Heading, Button, Slider, Img } from "../../components";
+import { Text, Heading, Button, Slider, Img } from "../../../components";
 import React from "react";
 
 export default function Home1ColumnFour() {

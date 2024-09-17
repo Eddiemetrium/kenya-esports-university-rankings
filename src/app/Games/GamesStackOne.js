@@ -1,4 +1,4 @@
-import { Img, Text, Heading } from "../../components";
+import { Img, Text, Heading } from "../../../components";
 import Link from "next/link";
 import React, { Suspense } from "react";
 

@@ -1,6 +1,6 @@
 "use client";
 
-import { Button, Img, Text, Heading, Slider } from "../../components";
+import { Button, Img, Text, Heading, Slider } from "../../../components";
 import React from "react";
 
 export default function DeveloperspageRowTen() {

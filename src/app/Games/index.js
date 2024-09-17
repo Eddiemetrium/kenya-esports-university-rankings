@@ -1,5 +1,5 @@
-import { Img, Text, Heading } from "../../components";
-import Header from "../../components/Header";
+import { Img, Text, Heading } from "../../../components";
+import Header from "../../../components/Header";
 import GamesRowEight from "./GamesRowEight";
 import GamesRowNine from "./GamesRowNine";
 import GamesRowSeven from "./GamesRowSeven";

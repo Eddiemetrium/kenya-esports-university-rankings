@@ -1,4 +1,4 @@
-import { Img, Text, Heading } from "../../components";
+import { Img, Text, Heading } from "../../../components";
 import React from "react";
 
 export default function PlayersdetailRowFour() {

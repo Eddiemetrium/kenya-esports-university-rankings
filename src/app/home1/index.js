@@ -1,6 +1,6 @@
-import { Button, Heading, Text, Img } from "../../components";
-import Footer from "../../components/Footer";
-import Header from "../../components/Header";
+import { Button, Heading, Text, Img } from "../../../components";
+import Footer from "../../../components/Footer";
+import Header from "../../../components/Header";
 import Home1ColumnFour from "./Home1ColumnFour";
 import Home1Columnoverflowm from "./Home1Columnoverflowm";
 import Home1RowFifteen from "./Home1RowFifteen";

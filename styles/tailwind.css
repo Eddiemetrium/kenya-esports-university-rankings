@@ -56,6 +56,140 @@ li:hover {
     cursor: pointer;
 }
 
+@layer base {
+  :root {
+    /* ------ Color variables ------ */
+    --black_900: #0e1013;
+    --black_900_00: #0c0e1100;
+    --black_900_01: #07080a;
+    --black_900_02: #07080b;
+    --black_900_03: #0c0e11;
+    --black_900_04: #0f0f13;
+    --black_900_05: #030303;
+    --black_900_06: #000000;
+    --black_900_1e: #0000001e;
+    --black_900_33: #00000033;
+    --black_900_3f: #0000003f;
+    --black_900_7f: #0000007f;
+    --black_900_87: #00000087;
+    --black_900_b2: #0c0e11b2;
+    --black_900_b2_01: #000000b2;
+    --black_900_ce: #0c0414ce;
+    --black_900_d8: #02090dd8;
+    --black_900_e5: #0c0e11e5;
+    --black_900_e5_01: #0c0414e5;
+    --black_900_e5_02: #0f0f13e5;
+    --blue_100: #b5c6ff;
+    --blue_a700: #3360f2;
+    --blue_gray_100: #dedede;
+    --blue_gray_200: #bcc6c9;
+    --blue_gray_400: #898989;
+    --blue_gray_700: #535353;
+    --cyan_200: #73cddb;
+    --cyan_900_99: #104e6199;
+    --deep_purple_500_2d: #773cb12d;
+    --deep_purple_500_5b: #773cb15b;
+    --deep_purple_500_e5: #623db1e5;
+    --deep_purple_900_99: #30279699;
+    --gray_300: #d5dcf2;
+    --gray_300_01: #d4dcf2;
+    --gray_400: #c4c4c4;
+    --gray_400_01: #bdbdbd;
+    --gray_400_33: #c4c4c433;
+    --gray_400_66: #c4c4c466;
+    --gray_400_cc: #c4c4c4cc;
+    --gray_500: #909090;
+    --gray_500_01: #a0a0a0;
+    --gray_500_02: #a5a5a5;
+    --gray_500_03: #919394;
+    --gray_500_04: #999999;
+    --gray_500_05: #aaaaaa;
+    --gray_500_06: #a1a1a1;
+    --gray_500_07: #929292;
+    --gray_500_08: #919495;
+    --gray_500_33: #a7a7a733;
+    --gray_500_e5: #aaaaaae5;
+    --gray_600: #757575;
+    --gray_600_01: #818181;
+    --gray_600_4c: #7272724c;
+    --gray_700_00: #5f5f5f00;
+    --gray_800: #3e3e3e;
+    --gray_900: #12151a;
+    --gray_900_01: #0f111f;
+    --gray_900_02: #121315;
+    --gray_900_03: #0d0e1a;
+    --gray_900_04: #131316;
+    --gray_900_05: #151621;
+    --gray_900_06: #12161b;
+    --gray_900_07: #11121d;
+    --gray_900_08: #141522;
+    --gray_900_09: #111419;
+    --gray_900_7f: #1010137f;
+    --gray_900_80: #16092480;
+    --gray_900_a5: #04131ea5;
+    --gray_900_cc: #12161bcc;
+    --gray_900_cc_01: #1b1d26cc;
+    --gray_900_e5: #180b26e5;
+    --indigo_100: #aac4ea;
+    --indigo_100_19: #aac4eb19;
+    --indigo_300: #7687b7;
+    --indigo_300_6c: #7687b76c;
+    --indigo_400: #5068b9;
+    --indigo_400_7f: #5068b97f;
+    --indigo_500_e5: #3d58b1e5;
+    --indigo_600_99: #4137b699;
+    --indigo_a200: #4f78ff;
+    --indigo_a200_01: #466ce8;
+    --indigo_a200_02: #5981fd;
+    --indigo_a200_0f: #4f78ff0f;
+    --indigo_a200_33: #4f78ff33;
+    --indigo_a200_4c: #4f78ff4c;
+    --indigo_a200_b2: #4f78ffb2;
+    --indigo_a200_cc: #466ce8cc;
+    --indigo_a200_e5: #4f78ffe5;
+    --pink_500_16: #e0315b16;
+    --teal_50: #e3edf0;
+    --teal_400_99: #2c8faf99;
+    --white_a700: #ffffff;
+    --white_a700_0c: #ffffff0c;
+    --white_a700_4f: #ffffff4f;
+    --white_a700_6c: #ffffff6c;
+
+    /* ------ Shadow variables ------ */
+    --shadow-xs: 0 4px 40px 0 #0000003f;
+    --shadow-sm: 0 4px 20px 0 #e0315b16;
+    --shadow-md: 0 4px 60px 0 #0000001e;
+
+    /* ------ Border radius variables ------ */
+    --radius-xs: 3px;
+    --radius-sm: 20px;
+    --radius-md: 34px;
+    --radius-lg: 40px;
+
+    /* ------ Spacing variables ------ */
+    --space-xs: 0.25rem;
+    --space-sm: 0.38rem;
+    --space-md: 0.5rem;
+    --space-lg: 0.63rem;
+    --space-xl: 0.75rem;
+    --space-2x1: 1rem;
+    --space-3x1: 1.13rem;
+    --space-4x1: 1.25rem;
+    --space-5x1: 1.38rem;
+    --space-6x1: 1.5rem;
+    --space-7x1: 1.75rem;
+    --space-8x1: 1.88rem;
+    --space-9x1: 2.5rem;
+    --space-10x1: 3.13rem;
+    --space-11x1: 3.63rem;
+    --space-12x1: 3.75rem;
+    --space-13x1: 4.25rem;
+    --space-14x1: 4.38rem;
+    --space-15x1: 4.63rem;
+    --space-16x1: 6.63rem;
+  }
+}
+
 @layer components {
     /* Container CSS */
     .container-xs {

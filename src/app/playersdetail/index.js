@@ -1,5 +1,5 @@
-import { Img, Text, Heading } from "../../components";
-import Header from "../../components/Header";
+import { Img, Text, Heading } from "../../../components";
+import Header from "../../../components/Header";
 import PlayersdetailColumnvectortwo from "./PlayersdetailColumnvectortwo";
 import PlayersdetailHighlight from "./PlayersdetailHighlight";
 import PlayersdetailRowEight from "./PlayersdetailRowEight";

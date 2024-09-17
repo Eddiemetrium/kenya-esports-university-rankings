@@ -1,5 +1,5 @@
-import { Button, Heading } from "../../components";
-import UserProfile11 from "../../components/UserProfile11";
+import { Button, Heading } from "../../../components";
+import UserProfile11 from "../../../components/UserProfile11";
 import React from "react";
 
 export default function EventsRowFifteen() {

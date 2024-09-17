@@ -1,4 +1,4 @@
-import { Heading, Img } from "../../components";
+import { Heading, Img } from "../../../components";
 import React from "react";
 
 export default function DeveloperspageStackmylittle() {

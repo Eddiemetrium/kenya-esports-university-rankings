@@ -1,7 +1,7 @@
 import React from "react";
-import "@/styles/tailwind.css";
-import "../styles/index.css";
-import "../styles/font.css";
+import "../../styles/font.css";
+import "../../styles/index.css";
+import "../../styles/font.css";
 
 export const metadata = {
   title: "Kenya University Esports Ranking",

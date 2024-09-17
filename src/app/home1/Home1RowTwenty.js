@@ -1,5 +1,5 @@
 "use client";
-import { Button, Input, Heading, Text } from "../../components";
+import { Button, Input, Heading, Text } from "../../../components";
 import React from "react";
 
 export default function Home1RowTwenty() {

@@ -1,5 +1,5 @@
 "use client";
-import { Text, Heading, Img, Slider, Button } from "../../components";
+import { Text, Heading, Img, Slider, Button } from "../../../components";
 import React from "react";
 
 export default function LandingStackslickarrow() {

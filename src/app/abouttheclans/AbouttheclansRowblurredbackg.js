@@ -1,4 +1,4 @@
-import { Img } from "../../components";
+import { Img } from "../../../components";
 import React from "react";
 
 export default function AbouttheclansRowblurredbackg() {

@@ -1,4 +1,4 @@
-import VectorImageGallery from "../../components/VectorImageGallery";
+import VectorImageGallery from "../../../components/VectorImageGallery";
 import React, { Suspense } from "react";
 
 export default function PlayersdetailColumnvectortwo() {

@@ -1,4 +1,4 @@
-import { Img, Button, Text, Heading } from "../components";
+import { Img, Button, Text, Heading } from "../../../components";
 import React from "react";
 
 export default function PlayersCta() {

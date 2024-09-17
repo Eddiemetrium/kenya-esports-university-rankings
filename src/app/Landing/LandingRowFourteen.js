@@ -1,6 +1,6 @@
 "use client";
 
-import { Heading, Input, Text } from "../../components";
+import { Heading, Input, Text } from "../../../components";
 import React from "react";
 
 export default function LandingRowFourteen() {

@@ -1,4 +1,4 @@
-import { Text, Heading, Img } from "../../components";
+import { Text, Heading, Img } from "../../../components";
 import React from "react";
 
 export default function Home1RowThirteen() {

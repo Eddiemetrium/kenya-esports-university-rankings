@@ -1,5 +1,5 @@
-import { Button, Heading, Text } from "../../components";
-import UserProfile2 from "../../components/UserProfile2";
+import { Button, Heading, Text } from "../../../components";
+import UserProfile2 from "../../../components/UserProfile 2";
 import Link from "next/link";
 import React from "react";
 

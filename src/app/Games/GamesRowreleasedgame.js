@@ -1,5 +1,5 @@
-import { Img, Heading } from "../../components";
-import UserProfile7 from "../../components/UserProfile7";
+import { Img, Heading } from "../../../components";
+import UserProfile7 from "../../../components/UserProfile7";
 import React from "react";
 
 export default function GamesRowreleasedgame() {

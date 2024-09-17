@@ -1,6 +1,6 @@
 "use client";
 
-import { Img, Heading, Text, Slider, Button } from "../../components";
+import { Img, Heading, Text, Slider, Button } from "../../../components";
 import React from "react";
 
 export default function PlayersRowSeven() {

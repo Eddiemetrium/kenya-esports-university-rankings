@@ -1,5 +1,5 @@
-import { Img, Heading } from "../../components";
-import WorldCupInfo from "../../components/WorldCupInfo";
+import { Img, Heading } from "../../../components";
+import WorldCupInfo from "../../../components/WorldCupInfo";
 import React from "react";
 
 export default function LandingRowTopHighlight() {

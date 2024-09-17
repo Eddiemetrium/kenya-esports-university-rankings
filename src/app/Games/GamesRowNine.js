@@ -1,5 +1,5 @@
 "use client";
-import { Button, Img, Slider, Text, Heading } from "../../components";
+import { Button, Img, Slider, Text, Heading } from "../../../components";
 import React from "react";
 
 export default function GamesRowNine() {

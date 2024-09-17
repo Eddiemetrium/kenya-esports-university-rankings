@@ -1,4 +1,4 @@
-import { Heading, Text } from "../../components";
+import { Heading, Text } from "../../../components";
 import React from "react";
 
 export default function AboutTheclansColumnSeven() {

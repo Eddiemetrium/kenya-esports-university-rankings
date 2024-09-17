@@ -1,7 +1,7 @@
 "use client";
-import { Img, Text, Heading, Button, Slider } from "../../components";
-import Footer from "../../components/Footer";
-import Header from "../../components/Header";
+import { Img, Text, Heading, Button, Slider } from "../../../components";
+import Footer from "../../../components/Footer";
+import Header from "../../../components/Header";
 import UserProfile10 from "../../../components/UserProfile10";
 import EventsFormevents from "./EventsFormevents";
 import EventsRowEight from "./EventsRowEight";

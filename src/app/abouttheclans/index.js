@@ -1,5 +1,5 @@
 "use client";
-import { Img, Text, Heading } from "../../components";
+import { Img, Text, Heading } from "../../../components";
 import Header from "../../components/Header";
 import AbouttheclansColumnone from "./AbouttheclansColumnOne";
 import AbouttheclansColumnSeven from "./AbouttheclansColumnSeven";

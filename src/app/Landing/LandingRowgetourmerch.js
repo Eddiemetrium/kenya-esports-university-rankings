@@ -1,6 +1,6 @@
 "use client";
 
-import { Button, Img, Heading, Slider, Text } from "../../components";
+import { Button, Img, Heading, Slider, Text } from "../../../components";
 import React from "react";
 
 export default function LandingRowgetourmerch() {

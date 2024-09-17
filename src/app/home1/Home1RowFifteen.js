@@ -1,5 +1,5 @@
 import Image from "next/image";
-import { Button, Heading, Text, Img } from "../../components";
+import { Button, Heading, Text, Img } from "../../../components";
 import React from "react";
 
 export default function Home1RowFifteen() {

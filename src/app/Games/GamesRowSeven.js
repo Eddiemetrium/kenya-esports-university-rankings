@@ -1,5 +1,5 @@
-import { Heading } from "../../components";
-import UserProfile6 from "../../components/UserProfile6";
+import { Heading } from "../../../components";
+import UserProfile6 from "../../../components/UserProfile6";
 import React from "react";
 
 export default function GamesRowSeven() {

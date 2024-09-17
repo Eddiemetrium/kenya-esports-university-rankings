@@ -1,5 +1,5 @@
-import { Heading } from "../../components";
-import UserStatistics from "../../components/UserStatistics";
+import { Heading } from "../../../components";
+import UserStatistics from "../../../components/UserStatistics";
 import React from "react";
 
 export default function PlayersdetailRowEight() {

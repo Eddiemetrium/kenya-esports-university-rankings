@@ -1,4 +1,4 @@
-import { Img, Heading } from "../../components";
+import { Img, Heading } from "../../../components";
 import React from "react";
 
 export default function PlayersdetailRowheadphone() {

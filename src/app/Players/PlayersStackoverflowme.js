@@ -1,5 +1,5 @@
 "use client";
-import { Button, Heading, Text, Img, Slider } from "../../components";
+import { Button, Heading, Text, Img, Slider } from "../../../components";
 import React from "react";
 
 export default function PlayersStackoverflowme() {

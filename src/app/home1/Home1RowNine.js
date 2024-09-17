@@ -1,5 +1,5 @@
-import { Heading, Text } from "../../components";
-import UserStats from "../../components/UserStats";
+import { Heading, Text } from "../../../components";
+import UserStats from "../../../components/UserStats";
 import React from "react";
 
 export default function Home1RowNine() {
